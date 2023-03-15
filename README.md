@@ -21,12 +21,6 @@ You can talk to the bot in voice messages, the bot will transcribe and respond. 
 -   An [OpenAI API key](https://beta.openai.com/signup)
 -   A WhatsApp account
 
-## Documentation
-
-In the documentation you can find more information about how to install, configure and use this bot.
-
-<span style="font-size: 1.4rem;">➡️ https://askrella.github.io/whatsapp-chatgpt</span>
-
 ## Disclaimer
 
 The operations performed by this bot are not free. You will be charged by OpenAI for each request you make.
